@@ -73,7 +73,6 @@
 + If limited to a database/third-party service, we need to make sure our system is not tightly coupled to that technology or APIs
 + Usage of different technology/service in future should need minimal changes
 + Different parts of the system can be decoupled to be easily replaced or updated independently
-+ 
 
 
 
