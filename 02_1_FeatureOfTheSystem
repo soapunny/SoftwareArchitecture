@@ -1,0 +1,40 @@
+
+# Feature of the System
+
+### Formal Method of Gathering Functional Requirements
+
++ Ask the client to describe everything they need? - not a good method for complex systems.
++ More powerful method of gathering requirements
+    - Use Cases
+        * situation/Scenario in which our system is used.
+    - User Flows
+        * A Step-By-Step / Graphical representation of each use case.
+
+### Requirement Gathering Steps
+1. Identify all the actors/users in our system.
+2. Capture and describe all the possible use-cases/ scenarios
+3. User Flow - Expand each use case through flow of events
+    - Each event contains
+        * Action
+        * Data
+
+### Uber Service - Gathering requirements
+    "Allow *people to join *drivers on a route, who are willing to take passengers for a fee"
+1. Actors: drivers, passengers
+2. find use-cases
+    - Driver registration
+    - Rider registration
+    - Driver login
+    - Rider login
+    - Successful match and ride
+    - Unsuccessful ride
+3. Sequence diagram - a visual way the document in the interaction between actors and different components of our system
+
+### Example with a Sequence Diagram
++ Uber match
+    - <img src="img/02_1_sequence_diagram.png">
++ Payment
+    - <img src="img/02_1_sequence_diagram_2.png">
+
+
+<link rel='stylesheet' href='styles.css'>
