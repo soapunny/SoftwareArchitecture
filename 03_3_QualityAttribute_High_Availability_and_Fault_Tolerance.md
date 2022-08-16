@@ -80,7 +80,7 @@
     - Collect data about the number of errors each host gets per minute and if the error rate in one of the hosts is high, it can interpret that as failure of the host
     - Collect information about time taken for each host to respond If the time to respond to requests becomes long, it can decide that the host is slow
 
-+ Recovery from Failure
+# Recovery from Failure
 ```
     Availability = MTBF / (MTBF + MTTR)
 ```
