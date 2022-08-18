@@ -139,6 +139,5 @@
 ### Defining our API
 + We can define our API in any way as long as we adhere to these best practices
 + A few types of APIs have become more standard in the industry
-+ 
 
 <link rel='stylesheet' href='styles.css'>
